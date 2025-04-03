@@ -17,8 +17,8 @@ Before running the test, ensure you have the following installed:
 ## Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Beardo-cs/Instagram-Playwright-Automation
-   cd Instagram-Playwright-Automation
+   git clone https://github.com/Beardo-cs/Instagram_Playwright_Automation
+   cd Instagram_Playwright_Automation
    ```
 2. Install dependencies:
    ```sh
